@@ -12,7 +12,7 @@
 	<name>Spring5MVCApacheTiles3</name>
 
 	<properties>
-		<springframework.version>5.2.5.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 		<spring.security.version>5.2.5.RELEASE</spring.security.version>
 		<apachetiles.version>3.0.8</apachetiles.version>
 	</properties>
